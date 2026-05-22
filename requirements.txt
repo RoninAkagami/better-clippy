@@ -1,0 +1,13 @@
+pyautogui
+psutil
+Pillow
+pytesseract
+
+duckduckgo-search
+
+langchain
+langchain-groq
+langchain-core
+langgraph
+
+PyQt5

@@ -1,0 +1,8 @@
+.snap/
+.git/
+__pycache__/
+*.pyc
+*.log
+screen.png
+.env
+.env.local
