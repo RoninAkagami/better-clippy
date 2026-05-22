@@ -105,6 +105,14 @@ It is done like this:
 * If you are using this, you are requested, to contribute.
 * Star it if you want, dont if you dont want to. 
 
+## Running It
+```bash
+git clone https://github.com/RoninAkagami/better-clippy.git
+cd better-clippy
+pip install -r requirements.txt
+python main.py
+```
+
 ## LICENSE
 DONT BE A DICK
 
