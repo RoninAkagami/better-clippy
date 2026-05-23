@@ -13,8 +13,8 @@ python main.py
 ```
 
 ## What it is is
-> An ambient virtual companion, that comments on your work once in a while, and ask for help in a non-intrusive way. And the biggest one: Intelligent
-This is a project made as an attempt to revive that annoying-ass MS Office assistant - Clippy, with a few important caveats:
+> An ambient virtual companion, that comments on your work once in a while, and ask for help in a non-intrusive way. And the biggest one: Intelligent.
+> This is no way is like clippy - but just the icon is copied(since it brings so much nostalgia). It is supposed to be funny, geeky, and not pretending to be helpful, but like a companion
 - It does not open when you open a specific app, but is always there, as a translucent, always-on-top icon
 - Every 10 mins or so, it takes a screenshot, and sends to an llm via groq, to either roast you, say something funny, or ask for help, which is then displayed as clippy's speech.
 - And when you press F9, an input bar appears, to ask the llm. The llm has some tools, with which it can search the web, see what processes are running, etc..., with/without
