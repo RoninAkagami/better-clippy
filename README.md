@@ -2,10 +2,18 @@
 > I know no one is going to read this README, nor this repo, but for my satisfaction...
 
 # Clippy - that annoying MS Office Assistant revived
-> but this time - not so annoying but funny
+> but this time - not so annoying but funny.
+
+## Running It
+```bash
+git clone https://github.com/RoninAkagami/better-clippy.git
+cd better-clippy
+pip install -r requirements.txt
+python main.py
+```
 
 ## What it is is
-
+> An ambient virtual companion, that comments on your work once in a while, and ask for help in a non-intrusive way. And the biggest one: Intelligent
 This is a project made as an attempt to revive that annoying-ass MS Office assistant - Clippy, with a few important caveats:
 - It does not open when you open a specific app, but is always there, as a translucent, always-on-top icon
 - Every 10 mins or so, it takes a screenshot, and sends to an llm via groq, to either roast you, say something funny, or ask for help, which is then displayed as clippy's speech.
@@ -105,13 +113,7 @@ It is done like this:
 * If you are using this, you are requested, to contribute.
 * Star it if you want, dont if you dont want to. 
 
-## Running It
-```bash
-git clone https://github.com/RoninAkagami/better-clippy.git
-cd better-clippy
-pip install -r requirements.txt
-python main.py
-```
+
 
 ## LICENSE
 DONT BE A DICK
