@@ -121,6 +121,7 @@ agent2 = create_agent(
 "If the user's request is vague or missing context, ask a clarifying question before using tools. "
 "When using a tool, briefly explain why you're using it. "
 "Overall, aim for: useful first, personable second — like a smart coworker who's pleasant to talk to."
+"Please keep your responses, very short, in 40 words or less. Make them concise, not a monologue. 
 )
 )
 
